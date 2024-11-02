@@ -11,14 +11,12 @@
             "id": "9708c161857b3962",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Week_9/cardio.md",
-                "mode": "source",
-                "source": false
+                "file": "Week_9/Pasted image 20241102084710.png"
               },
-              "icon": "lucide-file",
-              "title": "cardio"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241102084710"
             }
           }
         ]
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week_9/cardio.md",
+                "file": "Week_9/Pasted image 20241102084710.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cardio"
+              "title": "Backlinks for Pasted image 20241102084710"
             }
           },
           {
@@ -112,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week_9/cardio.md",
+                "file": "Week_9/Pasted image 20241102084710.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from cardio"
+              "title": "Outgoing links from Pasted image 20241102084710"
             }
           },
           {
@@ -139,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week_9/cardio.md"
+                "file": "Week_9/Pasted image 20241102084710.png"
               },
               "icon": "lucide-list",
-              "title": "Outline of cardio"
+              "title": "Outline of Pasted image 20241102084710"
             }
           }
         ]
@@ -162,10 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9708c161857b3962",
+  "active": "2f4172644e00cc8e",
   "lastOpenFiles": [
-    "Pasted image 20241102084710.png",
-    "Pasted image 20241102084704.png",
-    "Pasted image 20241102084657.png"
+    "Week_9/cardio.md",
+    "Week_9/Pasted image 20241102084710.png",
+    "Week_9/Pasted image 20241102084704.png",
+    "Week_9/Pasted image 20241102084657.png"
   ]
 }
