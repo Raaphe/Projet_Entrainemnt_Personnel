@@ -6,6 +6,6 @@
 
 ![Alt text](https://example.com/path/to/image.png)
 
-![image1](Pasted image 20241102084657.png)
-![image1](Pasted image 20241102084704.png)
-![image1](Pasted image 20241102084710.png)
+![image1]("./Pasted image 20241102084657.png")
+![image2]("./Pasted image 20241102084704.png")
+![image3]("./Pasted image 20241102084710.png")
